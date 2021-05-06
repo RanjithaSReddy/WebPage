@@ -1,0 +1,186 @@
+* {
+    background-color: black;
+    color: blanchedalmond;
+}
+.heading{
+    display: inline;
+}
+.logoName{
+    font-size:medium;
+    display: inline;
+}
+.logo{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+h1{
+    display: inline;
+    position: relative;
+    top: -25px;
+    color: rgb(196, 159, 40);
+}
+.headerlinks{
+    float: right;
+    margin-top: 70px;
+    /* background-color: maroon; */
+    font-size:x-large;
+    display: inline;
+}
+.hl {
+    text-decoration: none;
+    margin-right: 25px;
+    color: rgb(196, 159, 40);
+    /* background-color: maroon; */
+}
+
+.section1{
+    /* border: 2px solid maroon; */
+    height: 350px;
+    margin-left: 50px;
+    margin-right: 40px;
+    margin-top: 40px;
+    background-image: url("Images/BiriyaniPic4.jpg");
+    background-repeat: no-repeat;
+    background-size: 1300px 450px;
+}
+.flexContainer{
+    display:flex;
+    /* border: 2px solid maroon; */
+    margin-top: 40px;
+    margin-left: 60px;
+    margin-right: 60px;
+    justify-content: space-around;
+}
+.SubPartition1{
+    /* border: 2px solid maroon; */
+    height: 400px;
+    width: 250px;
+    background-image: url("Images/matkaBiriyani2.jpg");
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: 450px 299px;
+}
+.MatkaB{
+    text-align: center;
+    /* color: rgb(196, 159, 40); */
+}
+.MBP{
+    /* text-align-last: center; */
+    margin-top: 260px;
+    font-size: medium;
+    text-align: center;
+}
+.OrderNow{
+    position: relative;
+    left: 90px;
+    border-radius: 5px;
+    border: 5px solid maroon;
+    background-color: maroon;
+    text-decoration: none;
+}
+
+.SubPartition2{
+    /* border: 2px solid maroon; */
+    height: 400px;
+    width: 250px;
+    background-image: url("Images/DonneBiriyani1.jpg");
+    background-repeat: no-repeat;
+    background-size: 450px 299px;
+}
+.DonneB{
+    text-align: center;
+}
+.DBP{
+    margin-top: 260px;
+    font-size: medium;
+    text-align: center;
+}
+.SubPartition3{
+    /* border: 2px solid maroon; */
+    height: 400px;
+    width: 250px;
+    background-image: url("Images/BiriyaniPic2.jpg");
+    background-repeat: no-repeat;
+    background-size: 450px 299px;
+}
+.HydB{
+    text-align: center;
+}
+.HBP{
+    margin-top: 260px;
+    font-size: medium;
+    text-align: center;
+}
+
+.FooterFlexContainer{
+    display: flex;
+     /* border: 2px solid rgb(177, 161, 161); */
+     margin-top: 40px;
+     /* margin-left: 60px; */
+     /* margin-right: 60px; */
+     justify-content: space-around;
+     background-color: rgb(78, 11, 11);
+     width: 100%;
+}
+.QuickLinks{
+    background-color: rgb(78, 11, 11);
+}
+.ContactLinks{
+    background-color: rgb(78, 11, 11);
+}
+.SocialMedia{
+    background-color: rgb(78, 11, 11);
+}
+ul, li, b {
+    background-color: rgb(78, 11, 11);
+}
+.FooterHeadings{
+    background-color: rgb(78, 11, 11);
+}
+.FooterLinks{
+    background-color: rgb(78, 11, 11);
+}
+.FooterPara{
+    background-color: rgb(78, 11, 11);
+}
+
+
+
+
+
+/* .SideSection{
+    margin-top: 20px;
+    width: 20%;
+    border: 2px solid gray;
+} */
+/* .filterheader{
+    padding-left: 10px;
+    font-size: large;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
